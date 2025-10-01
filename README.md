@@ -1,7 +1,3 @@
-Aqui está uma versão mais clara, organizada e profissional do seu README:
-
----
-
 # 📘 Projeto de Exercícios em Python - Programação Orientada a Objetos
 
 Este repositório reúne uma lista de exercícios em **Python**, desenvolvidos durante o **segundo semestre** da disciplina de **Programação Orientada a Objetos**, ministrada pelo **Prof. Dr. César Alexandre S. Lima** no **Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP) – Câmpus Bragança Paulista**.
